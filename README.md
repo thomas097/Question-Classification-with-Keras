@@ -3,15 +3,12 @@
 **Abstract:**
 Using Keras to create a very simple question classification model. The model is able to classify three types of questions: number/amount, location, color and object.
 
-e.g.
-
-'what is a dog' -> object
-
-'how many dogs are there' -> number
-
-'where is the dog' -> location
-
-'what is the dog's color' -> color
+| Question | Answer Type |
+| --- | --- |
+| what is a dog | object |
+| how many dogs are there | number |
+| where is the dog | location |
+| what is the dog's color | color |
 
 **Results:**
 Due to the simplicity and size of the dataset it is possible to obtain very accurate (98%+) results with a simple model.
