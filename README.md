@@ -13,6 +13,9 @@ e.g.
 
 'what is the dog's color' -> color
 
+**Results:**
+Due to the simplicity and size of the dataset it is possible to obtain very accurate (98%+) results with a simple model.
+
 **Data:**
 The dataset that has been used can be found at:
 
