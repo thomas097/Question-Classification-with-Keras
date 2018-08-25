@@ -8,7 +8,7 @@ Using Keras to create a very simple question classification model. The model is 
 | what is a dog | object |
 | how many dogs are there | number |
 | where is the dog | location |
-| what is the dog's color | color |
+| what is the color | color |
 
 **Results:**
 Due to the simplicity and size of the dataset it is possible to obtain very accurate (98%+) results with a simple model.
