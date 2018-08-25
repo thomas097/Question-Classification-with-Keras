@@ -1,7 +1,7 @@
 # Question Classification with Keras
 
 **Abstract:**
-Using Keras to create a very simple question classification model. The model is able to classify three types of questions: number/amount, location, color and object.
+Using Keras to create a very simple question classification single layer perceptron model. The model is able to classify three types of questions: number/amount, location, color and object.
 
 | Question | Answer Type |
 | --- | --- |
